@@ -1,6 +1,7 @@
 {
   "name": "GhibliFilmList",
   "version": "0.1.0",
+  "homepage": "https://yumichelle.github.io/GhibliFilmList",
   "private": true,
   "dependencies": {
     "@types/jest": "23.3.13",
