@@ -6,9 +6,12 @@
 - Special Gotchas of your projects (Problems you faced, unique elements of your project)
 - Technical Description of your project like- Installation, Setup, How to contribute.
 -->
-# GhibliFilmList
+<p align="center">
+  <img height="150" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Studio_Ghibli_logo.svg/1200px-Studio_Ghibli_logo.svg.png">
+</p>
 
-GhibliFilmList incorporates a Ghibli API into a web app.
+# GhibliFilmList
+GhibliFilmList incorporates a [Ghibli API][API] into a web app.
 ![GhibliFilmList Demo](https://i.imgur.com/alNOaoq.png)
 
 ## Technologies Used
@@ -23,6 +26,11 @@ GhibliFilmList incorporates a Ghibli API into a web app.
 $ cd GhibliFilmList
 $ npm start
 ```
-<p align="center">
-  <img height="300" src="https://pa1.narvii.com/7287/0b408f4d911235c359302f0b66a76d956b04bfd8r1-500-500_hq.gif">
-</p>
+## License
+
+[MIT][mit] © [yumichelle][author]
+
+
+[mit]:      http://opensource.org/licenses/MIT
+[author]:   http://github.com/yumichelle
+[API]:      https://github.com/janaipakos/ghibliapi
